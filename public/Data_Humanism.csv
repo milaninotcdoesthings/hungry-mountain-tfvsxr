@@ -1,0 +1,111 @@
+Hour,Music_Genre,Mood,Yt_Content,Tr_rec
+7.00,Us Rap,Motivated,Travel,Andalusia
+8.00,Us Rap,Motivated,Work,Kyoto
+9.00,Italian Rap,Reflexive,Fun,Andalusia
+10.00,EDM,Chill,Fun,Barcelona
+13.00,EDM,Chill,Work,Kyoto
+15.00,Pop,Chill,Fun,Andalusia
+18.00,Polish Rap,Sad,Fun,Barcelona
+20.00,Us Rap,Sad,Music,Kyoto
+21.00,Lo-Fi,Reflexive,Fun,Andalusia
+22.00,Lo-Fi,Studying,Podcast,Lisbon
+23.00,Lo-Fi,Studying,Podcast,New York
+7.00,R & B,Chill,Podcast,Barcelona
+8.00,Polish Rap,Sad,Travel,Tuscany
+9.00,Lo-Fi,Studying,Podcast,Algarve
+10.00,Lo-Fi,Studying,Podcast,Seoul
+13.00,Us Rap,Motivated,Music,Marrakech
+15.00,Polish Rap,Motivated,Music,Andalusia
+18.00,Polish Rap,Motivated,Sport,Andalusia
+20.00,Polish Rap,Sad,Comedy,Asturias
+21.00,Polish Rap,Sad,Comedy,Tuscany
+22.00,Lo-Fi,Reflexive,Podcast,Scotland
+23.00,EDM,Chill,Fun,Iceland
+7.00,R & B,Chill,Fun,Asturias
+8.00,Techno,Anxious,Travel,New York
+9.00,Lo-Fi,Studying,Podcast,Asturias
+10.00,Techno,Anxious,Fun,Tuscany
+13.00,Us Rap,Chill,Fun,New York
+15.00,Italian Rap,Motivated,Sport,Asturias
+18.00,Polish Rap,Motivated,Sport,Tuscany
+20.00,Italian Rap,Motivated,Podcast,New York
+21.00,Polish Rap,Sad,Fun,Asturias
+22.00,Techno,Anxious,Travel,London
+23.00,Lo-Fi,Sad,Travel,London
+7.00,Afrobeat,Chill,Fun,Lisbon
+8.00,Afrobeat,Chill,Fun,Lisbon
+9.00,Polish Rap,Sad,Sport,Versilia
+10.00,PNL,Reflexive,Podcast,Algarve
+13.00,PNL,Reflexive,Podcast,Lisbon
+15.00,PNL,Reflexive,Podcast,Versilia
+18.00,Polish Rap,Overthinking,Comedy,Algarve
+20.00,Soul,Chill,Sport,Lisbon
+21.00,Soul,Chill,Sport,Versilia
+22.00,EDM,Nostalgia,Travel,Artic Pole
+23.00,R & B,Nostalgia,Travel,Iceland
+7.00,Polish Rap,Sad,Sport,Scotland
+8.00,Us Rap,Sad,Work,Dolomites
+9.00,Polish Rap,Sad,Work,Scotland
+10.00,Us Rap,Nostalgia,Travel,Seoul
+13.00,R & B,Chill,Fun,Dolomites
+15.00,EDM,Chill,Sport,Scotland
+18.00,EDM,Chill,Podcast,Seoul
+20.00,Italian Rap,Focused,Doc,Dolomites
+21.00,Trap,Euphoria,Fun,Scotland
+22.00,Trap,Euphoria,Fun,Marrakech
+23.00,Lo-Fi,Studying,Music,Artic Pole
+7.00,Pop,Chill,Music,Iceland
+8.00,Lo-Fi,Studying,Podcast,Artic Pole
+9.00,Pop,Chill,Fun,Iceland
+10.00,Polish Rap,Focused,Work,Marrakech
+13.00,Pop,Chill,Fun,Artic Pole
+15.00,Polish Rap,Sad,Doc,Iceland
+18.00,Polish Rap,Sad,Doc,Marrakech
+20.00,EDM,Chill,Fun,Artic Pole
+21.00,Phonk,Euphoria,Sport,Iceland
+22.00,Phonk,Euphoria,Comedy,Marrakech
+23.00,Lo-Fi,Reflexive,Work,Artic Pole
+7.00,EDM,Chill,Fun,Kyoto
+8.00,Pop,Chill,Fun,Barcelona
+9.00,Us Rap,Angry,Doc,Kyoto
+10.00,Us Rap,Motivated,Work,Andalusia
+13.00,Us Rap,Motivated,Work,Barcelona
+15.00,Us Rap,Motivated,Curiosity,Kyoto
+18.00,Lo-Fi,Focused,Curiosity,Andalusia
+20.00,Us Rap,Focused,Curiosity,Barcelona
+21.00,Lo-Fi,Studying,Work,Kyoto
+22.00,Lo-Fi,Studying,Music,Iceland
+23.00,Lo-Fi,Reflexive,Work,Iceland
+7.00,PNL,Overthinking,Podcast,New York
+8.00,PNL,Overthinking,Podcast,Tuscany
+9.00,PNL,Reflexive,Work,New York
+10.00,Us Rap,Motivated,Fun,Asturias
+13.00,Polish Rap,Nostalgia,Travel,Warsaw
+15.00,Pop,Nostalgia,Travel,Warsaw
+18.00,Pop,Chill,Travel,Asturias
+20.00,Pop,Chill,Fun,Tuscany
+21.00,Us Rap,Motivated,Sport,New York
+22.00,Us Rap,Motivated,Sport,Warsaw
+23.00,Lo-Fi,Studying,Podcast,New York
+7.00,Lo-Fi,Chill,Fun,Lisbon
+8.00,Us Rap,Chill,Sport,Algarve
+9.00,Us Rap,Motivated,Comedy,Lisbon
+10.00,Italian Rap,Focused,Music,Versilia
+13.00,Italian Rap,Focused,Music,Algarve
+15.00,Polish Rap,Focused,Music,Lisbon
+18.00,Polish Rap,Sad,Doc,Versilia
+20.00,Uk Drill,Angry,Doc,Algarve
+21.00,Uk Drill,Angry,Doc,Lisbon
+22.00,Lo-Fi,Reflexive,Podcast,Artic Pole
+23.00,Lo-Fi,Studying,Podcast,Marrakech
+7.00,Uk Drill,Motivated,Sport,Dolomites
+8.00,Uk Drill,Motivated,Sport,Seoul
+9.00,Polish Rap,Motivated,Fun,Dolomites
+10.00,EDM,Chill,Fun,Scotland
+13.00,Uk Drill,Motivated,Music,Seoul
+15.00,Uk Drill,Motivated,Music,Dolomites
+18.00,Italian Rap,Sad,Podcast,Scotland
+20.00,Pop,Chill,Fun,Seoul
+21.00,Lo-Fi,Chill,Fun,Dolomites
+22.00,Polish Rap,Sad,Music,Warsaw
+23.00,Lo-Fi,Studying,Podcast,New York
